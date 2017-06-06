@@ -1,0 +1,11 @@
+C:\Users\mihai\Documents\Visual Studio 2017\Projects\cyclingTime3\CyclingTime\bin\Debug\CyclingTime3.exe.config
+C:\Users\mihai\Documents\Visual Studio 2017\Projects\cyclingTime3\CyclingTime\bin\Debug\CyclingTime3.exe
+C:\Users\mihai\Documents\Visual Studio 2017\Projects\cyclingTime3\CyclingTime\bin\Debug\CyclingTime3.pdb
+C:\Users\mihai\Documents\Visual Studio 2017\Projects\cyclingTime3\CyclingTime\bin\Debug\Infer.Compiler.dll
+C:\Users\mihai\Documents\Visual Studio 2017\Projects\cyclingTime3\CyclingTime\bin\Debug\Infer.Runtime.dll
+C:\Users\mihai\Documents\Visual Studio 2017\Projects\cyclingTime3\CyclingTime\bin\Debug\Infer.Compiler.pdb
+C:\Users\mihai\Documents\Visual Studio 2017\Projects\cyclingTime3\CyclingTime\bin\Debug\Infer.Compiler.xml
+C:\Users\mihai\Documents\Visual Studio 2017\Projects\cyclingTime3\CyclingTime\bin\Debug\Infer.Runtime.pdb
+C:\Users\mihai\Documents\Visual Studio 2017\Projects\cyclingTime3\CyclingTime\bin\Debug\Infer.Runtime.xml
+C:\Users\mihai\Documents\Visual Studio 2017\Projects\cyclingTime3\CyclingTime\obj\Debug\CyclingTime3.exe
+C:\Users\mihai\Documents\Visual Studio 2017\Projects\cyclingTime3\CyclingTime\obj\Debug\CyclingTime3.pdb
